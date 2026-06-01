@@ -3,7 +3,7 @@
 ## *Türkçe*
 
 *Çalışmalarımı bu kullanıcı adı ile yayımlıyorum. Bu sayfayı, çalışmalarımın ulaşılabilirliğini arttırmak amacıyla derleme noktası olarak kullanıyorum.*
-*Çalışmaların adlarındaki bağlantılara tıklayarak içeriklerini GitHub üzerinden görüntüleyebilirsiniz.*
+*Adlarındaki bağlantılara tıklayarak GitHub üzerinden çalışmaların içeriklerini görüntüleyebilirsiniz.*
 
 #### Oyunlar
 
