@@ -155,3 +155,5 @@ thunder-monetize.com, 4818959194, RESELLER
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 bold-win.com, 165, RESELLER, 71746737d0bab951
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
+themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
