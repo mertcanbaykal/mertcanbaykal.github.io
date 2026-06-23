@@ -13,6 +13,11 @@
 #### Yazı Tipi
 - [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
 
+### İletişim
+*mrtcnbykl@gmail.com*
+
+
+
 ## *English*
 
 *I publish my work under this username. I use this page as a center hub to increase the accessibility of my work.*
@@ -25,3 +30,6 @@
 
 #### Font
 - [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
+
+### Contact
+*mrtcnbykl@gmail.com*
