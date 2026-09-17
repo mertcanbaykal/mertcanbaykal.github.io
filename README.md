@@ -2,7 +2,7 @@
 
 ## *Türkçe*
 
-<img align="left" src="mrtcnbykl.png" alt="image"  width="128"/>
+<img align="left" src="mrtcnbykl.png" alt="image" style="height: 6em; vertical-align: middle;"/>
 
 Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çalışmalar yapan bir Türk bilgisayar mühendisiyim. Çalışmalarımı ***mrtcnbykl*** kullanıcı adı ile yayımlıyorum. Bu sayfayı, çalışmalarımın ulaşılabilirliğini arttırmak amacıyla derleme noktası olarak kullanıyorum.
 
