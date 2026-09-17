@@ -20,7 +20,7 @@
 
 ## *English*
 
-*My name is Mertcan Baykal. I'm a Turkish software engineer who works independently on projects in the fields of technology and software. I publish my work under **mrtcnbykl** username. I use this page as a center hub to increase the accessibility of my work.*
+*My name is Mertcan Baykal. I'm a Turkish software engineer who works independently on projects in the fields of technology and software. I publish my work under the username **mrtcnbykl**. I use this page as a center hub to increase the accessibility of my work.*
 *You can view the contents of my works on GitHub by clicking on the links on their names.*
 
 #### Games
