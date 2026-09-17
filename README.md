@@ -31,7 +31,7 @@ Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çal
 
 
 <br clear="left"/>
-<br> </br>
+<br>
 
 *You can view the contents of my works on GitHub by clicking on the links on their names.*
 
