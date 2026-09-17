@@ -2,12 +2,8 @@
 
 ## *Türkçe*
 
-<img align="left" src="mrtcnbykl.png" alt="image"  width="128"/>
-
-Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çalışmalar yapan bir Türk bilgisayar mühendisiyim. Çalışmalarımı ***mrtcnbykl*** kullanıcı adı ile yayımlıyorum. Bu sayfayı, çalışmalarımın ulaşılabilirliğini arttırmak amacıyla derleme noktası olarak kullanıyorum.
-
-<br clear="left"/>
-<br>
+|<img src="mrtcnbykl.png" alt="image"  width="512"/>|Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çalışmalar yapan bir Türk bilgisayar mühendisiyim. Çalışmalarımı *mrtcnbykl* kullanıcı adı ile yayımlıyorum. Bu sayfayı, çalışmalarımın ulaşılabilirliğini arttırmak amacıyla derleme noktası olarak kullanıyorum.|
+|-|-|
 
 *Adlarındaki bağlantılara tıklayarak GitHub üzerinden çalışmaların içeriklerini görüntüleyebilirsiniz.*
 
