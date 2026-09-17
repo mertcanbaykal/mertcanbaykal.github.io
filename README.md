@@ -2,7 +2,7 @@
 
 ## *Türkçe*
 
-<img align="left" src="mrtcnbykl.png" alt="image" style="height: 6em; vertical-align: middle;"/>
+<img align="left" src="mrtcnbykl.png" alt="image"  width="128"/>
 
 Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çalışmalar yapan bir Türk bilgisayar mühendisiyim. Çalışmalarımı ***mrtcnbykl*** kullanıcı adı ile yayımlıyorum. Bu sayfayı, çalışmalarımın ulaşılabilirliğini arttırmak amacıyla derleme noktası olarak kullanıyorum.
 
@@ -27,7 +27,8 @@ Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çal
 ## *English*
 
 <img align="left" src="mrtcnbykl.png" alt="image"  width="128"/>
-*My name is Mertcan Baykal. I'm a Turkish software engineer who works independently on projects in the fields of technology and software. I publish my work under the username **mrtcnbykl**. I use this page as a center hub to increase the accessibility of my work.*
+
+My name is Mertcan Baykal. I'm a Turkish software engineer who works independently on projects in the fields of technology and software. I publish my work under the username ***mrtcnbykl***. I use this page as a center hub to increase the accessibility of my work.
 
 
 <br clear="left"/>
