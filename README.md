@@ -1,6 +1,8 @@
 # mrtcnbykl
 
+<p align = center>
 <img src="mrtcnbykl.png"  width="256"/>
+</p>
 
 ## *Türkçe*
 
