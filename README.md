@@ -18,7 +18,7 @@ Adım Mertcan Baykal. Uygulayımbilim ve yazılım alanlarında bağımsız çal
 - [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion)
 
 #### Yazı Tipi
-- [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
+- [VCR_OSD_Mono + Turkic + Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
 
 ### İletişim
 *mrtcnbykl@gmail.com*
@@ -35,11 +35,11 @@ My name is Mertcan Baykal. I'm a Turkish software engineer who works independent
 
 #### Games
 
-- [Cyberpunk Survivor](https://github.com/mertcanbaykal/mrtcnbykl.CyberpunkSurvivor)
-- [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion)
+- [Cyberpunk Survivor](https://github.com/mertcanbaykal/mrtcnbykl.CyberpunkSurvivor/blob/main/README_EN.md)
+- [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion/blob/main/README_EN.md)
 
 #### Font
-- [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
+- [VCR_OSD_Mono + Turkic + Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_Turkic_Cyrillic/blob/main/README_EN.md)
 
 ### Contact
 *mrtcnbykl@gmail.com*
